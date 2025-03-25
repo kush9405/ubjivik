@@ -13,4 +13,3 @@ UBJIVIK is a web-based project designed to collect information about various gov
 
 - **HTML (81.5%)**: Used for structuring the web pages.
 - **CSS (18%)**: Used for styling and layout of the web pages.
-- ▋
